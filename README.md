@@ -1,11 +1,9 @@
 # HILL CIPHER
-HILL CIPHER
-EX. NO: 3 AIM:
- 
-
+### Name: Nithiyanandan N 
+### reg no:212222230099
+### EX. NO: 3 AIM:
 IMPLEMENTATION OF HILL CIPHER
- 
-## To write a C program to implement the hill cipher substitution techniques.
+ To write a C program to implement the hill cipher substitution techniques.
 
 ## DESCRIPTION:
 
